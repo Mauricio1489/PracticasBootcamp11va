@@ -36,7 +36,8 @@ nav h2{
 
 #contenido{
     height: 40%;
-    margin: 5px;         
+    margin: 5px;  
+    display: flex;       
 }
 
 #seccion{
@@ -44,7 +45,7 @@ nav h2{
     width: 68%;
     background-color: rgb(132, 189, 75);
     border-radius: 5px;
-    float: left;
+    
     margin: 1px;
 }
 
@@ -72,9 +73,9 @@ nav h2{
     
 #aside{
     height: 98%;
-    width: 31%;
+    width: 32%;
     background-color: rgb(142, 142, 143);
-    float: right;
+    margin: 2px;
     border-radius: 5px;    
 }
 
